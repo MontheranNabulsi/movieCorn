@@ -49,7 +49,7 @@ A modern, responsive web application for discovering and exploring movies with a
 1. **Clone the repository**
    ```bash
    git clone https://github.com/MontheranNabulsi/movieCorn.git
-   cd moviescorn
+   cd movieCorn
    ```
 
 2. **Install dependencies**
@@ -184,12 +184,6 @@ No environment variables required for basic functionality. The application uses 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
-
-**Montheran Nabulsi**
-- Portfolio: [Your Portfolio URL]
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email]
 
 ## 🙏 Acknowledgments
 
@@ -200,4 +194,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**MoviesCorn** - Discover cinema's greatest stories with style and sophistication.
+**MovieCorn** - Discover cinema's greatest stories with style and sophistication.

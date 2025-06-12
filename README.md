@@ -3,7 +3,7 @@
 
 A modern, responsive web application for discovering and exploring movies with an intuitive user interface and comprehensive movie database.
 
-![MovieCorn](https://images.unsplash.com/photo-1489599511996-1a1fb77fd59e?w=1200&h=400&fit=crop&crop=center)
+
 
 ## 🌟 Features
 

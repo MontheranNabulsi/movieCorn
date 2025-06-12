@@ -1,5 +1,5 @@
 
-# 🎬 MoviesCorn - Professional Cinema Discovery Platform
+# 🎬 MovieCorn - Professional Cinema Discovery Platform
 
 A modern, responsive web application for discovering and exploring movies with an intuitive user interface and comprehensive movie database.
 

@@ -193,5 +193,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Background images from Unsplash
 
 ---
-
-**MovieCorn** - Discover cinema's greatest stories with style and sophistication.

@@ -9,7 +9,7 @@ A modern, responsive web application for discovering and exploring movies with a
 
 ### 🎯 Core Functionality
 - **Comprehensive Movie Database**: Browse thousands of movies with detailed information
-- **Advanced Search & Filtering**: Search by title, director, cast, genre, year, and rating
+- **Advanced Search & Filtering**: Search by title, director, cast, genre, year, and rating.
 - **Personal Watchlist**: Save movies to watch later with persistent storage
 - **Detailed Movie Information**: Cast, crew, ratings, runtime, genres, and plot summaries.
 - **Responsive Design**: Optimized for desktop, tablet, and mobile devices

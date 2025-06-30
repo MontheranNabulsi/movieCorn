@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useRef } from "react";
 import { Container, Col, Row } from "react-bootstrap";
 import logo from '../images/logo.png';
 import { Link } from 'react-router-dom';
@@ -6,10 +6,9 @@ import { useSelector, useDispatch } from 'react-redux';
 import { getAllMovie, getMovieSearch } from '../redux/actions/movieAction';
 const NavBar = () => {
 
-  const onSearch = (word) => {
-    search(word)
-  }
   const dispatch = useDispatch();
+  const debounceRef = useRef();
+
   //to search in api
   const search = async (word) => {
     if (word === "") {
@@ -17,6 +16,15 @@ const NavBar = () => {
     } else {
       dispatch(getMovieSearch(word))
     }
+  }
+
+  const onSearch = (word) => {
+    if (debounceRef.current) {
+      clearTimeout(debounceRef.current);
+    }
+    debounceRef.current = setTimeout(() => {
+      search(word);
+    }, 500);
   }
 
   return (

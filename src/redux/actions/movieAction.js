@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { setMovies } from '../reducers/movieReducer';
 
-const API_KEY = '355f3cc55c1a5f8fb6f7b79d7541faea';
+const API_KEY = process.env.REACT_APP_TMDB_API_KEY;
 const BASE_URL = 'https://api.themoviedb.org/3';
 
 export const getAllMovie = () => async (dispatch) => {

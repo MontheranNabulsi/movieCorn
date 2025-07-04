@@ -131,8 +131,6 @@ src/
 
 ## 🔧 Configuration
 
-### Environment Variables
-No environment variables required for basic functionality. The application uses static movie data for demonstration purposes.
 
 ### Customization
 - **Colors**: Modify the color scheme in `tailwind.config.ts`

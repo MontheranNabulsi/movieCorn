@@ -176,9 +176,7 @@ src/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-
 ## 🙏 Acknowledgments
-
 - Movie data and images from The Movie Database (TMDB)
 - UI components from Shadcn/UI
 - Icons from Lucide React

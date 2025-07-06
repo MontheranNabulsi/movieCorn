@@ -146,12 +146,6 @@ src/
 - **Efficient Rendering**: Minimized re-renders with proper state management
 - **Caching**: Browser caching for static assets
 
-## 🌐 Browser Support
-
-- Chrome (last 2 versions)
-- Firefox (last 2 versions)
-- Safari (last 2 versions)
-- Edge (last 2 versions)
 
 ## 📱 Mobile Responsiveness
 

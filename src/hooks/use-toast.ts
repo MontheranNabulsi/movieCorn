@@ -1,4 +1,3 @@
-//init
 import * as React from "react"
 
 import type {
@@ -48,7 +47,7 @@ type Action =
   | {
       type: ActionType["REMOVE_TOAST"]
       toastId?: ToasterToast["id"]
-    }
+    }//bitti
 
 interface State {
   toasts: ToasterToast[]

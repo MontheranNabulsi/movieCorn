@@ -132,7 +132,7 @@ src/
 ## 🔧 Configuration
 
 
-### Customization
+### added Customization
 - **Colors**: Modify the color scheme in `tailwind.config.ts`
 - **Fonts**: Update font families in `tailwind.config.ts`
 - **Animations**: Customize animations in the config file

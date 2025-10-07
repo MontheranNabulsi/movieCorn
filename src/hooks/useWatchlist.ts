@@ -17,7 +17,7 @@ export const useWatchlist = () => {
     }
   }, []);
 
-
+// Save watchlist to localStorage whenever it changes
   useEffect(() => {
     localStorage.setItem('moviescorn-watchlist', JSON.stringify(watchlist));
   }, [watchlist]);
@@ -28,7 +28,7 @@ export const useWatchlist = () => {
         return prev; // Already in watchlist
       }
       return [...prev, movie];
-    });  // Save watchlist to localStorage whenever it changes
+    });  
   };
 
   const removeFromWatchlist = (movieId: number) => {

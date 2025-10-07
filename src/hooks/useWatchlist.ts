@@ -5,7 +5,7 @@ import { Movie } from '@/types/movie';
 export const useWatchlist = () => {
   const [watchlist, setWatchlist] = useState<Movie[]>([]);
 
-  // Load watchlist from localStorage on mount
+  
   useEffect(() => {
     const saved = localStorage.getItem('moviescorn-watchlist');
     if (saved) {
@@ -13,7 +13,7 @@ export const useWatchlist = () => {
         setWatchlist(JSON.parse(saved));
       } catch (error) {
         console.error('Error loading watchlist:', error);
-      }
+      }// Load watchlist from localStorage on mount
     }
   }, []);
 

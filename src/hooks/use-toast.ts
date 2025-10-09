@@ -47,7 +47,7 @@ type Action =
   | {
       type: ActionType["REMOVE_TOAST"]
       toastId?: ToasterToast["id"]
-    }//bitti
+    }
 
 interface State {
   toasts: ToasterToast[]

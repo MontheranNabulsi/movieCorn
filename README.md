@@ -50,7 +50,7 @@ A modern, responsive web application for discovering and exploring movies with a
   
    git clone https://github.com/MontheranNabulsi/movieCorn.git
    cd movieCorn
-   ```
+  
 
 2. **Install dependencies**
    ```bash

@@ -14,7 +14,7 @@ A modern, responsive web application for discovering and exploring movies with a
 - **Detailed Movie Information**: Cast, crew, ratings, runtime, genres, and plot summaries.
 - **Responsive Design**: Optimized for desktop, tablet, and mobile devices.
 
-### 🎨 User Interface
+###  User Interface
 - **Cinematic Hero Section**: Featured movie with immersive backdrop display
 - **Interactive Movie Cards**: Hover effects with quick action buttons
 - **Professional Navigation**: Fixed header with search and user options

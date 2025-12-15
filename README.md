@@ -129,7 +129,7 @@ src/
 - Production information
 - Cast and crew details
 
-## 🔧 Configuration
+##  Configuration
 
 
 ### added Customization

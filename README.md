@@ -21,7 +21,7 @@ A modern, responsive web application for discovering and exploring movies with a
 - **Modal Details**: Full-screen movie details with comprehensive information
 - **Dark Theme**: Cinema-inspired dark interface with purple accent colors
 
-### 📱 User Experience
+###  User Experience
 - **Social Sharing**: Share movies via Web Share API or clipboard
 - **Sorting Options**: Sort by popularity, rating, release year, or title
 - **Categorized Sections**: Trending, Top Rated, and Popular movie collections

@@ -38,7 +38,7 @@ A modern, responsive web application for discovering and exploring movies with a
 - **State Management**: React hooks with localStorage persistence
 - **Data Fetching**: Custom hooks with loading and error states
 
-## 📦 Installation & Setup
+##  Installation & Setup
 
 ### Prerequisites
 - Node.js 16.x or higher

@@ -99,7 +99,7 @@ src/
 └── lib/                 # Library configurations
 ```
 
-## 🎯 Key Components
+##  Key Components
 
 ### MovieCard Component
 - Interactive movie poster with hover effects

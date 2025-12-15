@@ -28,7 +28,7 @@ A modern, responsive web application for discovering and exploring movies with a
 - **Local Storage**: Persistent watchlist across browser sessions
 - **Performance Optimized**: Lazy loading images and efficient rendering
 
-## 🚀 Technology Stack
+##  Technology Stack
 
 - **Frontend Framework**: React 18 with TypeScript
 - **Build Tool**: Vite for fast development and building

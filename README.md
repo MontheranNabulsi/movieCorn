@@ -138,7 +138,7 @@ src/
 - **Animations**: Customize animations in the config file
 - **Movie Data**: Replace mock data in `hooks/useMovies.ts` with API integration
 
-## 📊 Performance Features
+##  Performance Features
 
 - **Lazy Loading**: Images load only when visible
 - **Code Splitting**: Optimized bundle sizes

@@ -5,7 +5,7 @@ A modern, responsive web application for discovering and exploring movies with a
 
 
 
-## 🌟 Features
+##  Features
 
 ### 🎯 Core Functionality
 - **Comprehensive Movie Database**: Browse thousands of movies with detailed information.

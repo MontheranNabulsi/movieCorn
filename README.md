@@ -47,7 +47,7 @@ A modern, responsive web application for discovering and exploring movies with a
 ### Quick Start
 
 1. **Clone the repository**
-   ```bash
+  
    git clone https://github.com/MontheranNabulsi/movieCorn.git
    cd movieCorn
    ```
